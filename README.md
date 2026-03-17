@@ -30,4 +30,4 @@ If you need help or want to contribute, feel free to join our Discord:
 
 ## Preview
 
-![Inventory Preview](<img width="1536" height="1024" alt="ox-inv9" src="https://github.com/user-attachments/assets/9bdd9dac-eba9-40ca-9a16-8e0e0666018a" />)
+![Inventory Preview](https://r2.fivemanage.com/KDzR0d1JP0uBKNnAdnVcG/ox-inv9.png)
